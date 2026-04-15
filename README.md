@@ -1,7 +1,7 @@
-<h1>Your Own Shopping Store</h1>
+<h1> ANU T STORE</h1>
 
 <p>
-<strong>Your Own Shopping Store</strong> is a full-stack e-commerce web application built using the <strong>MERN-style</strong> stack — 
+<strong>ANU T STORE</strong> is a full-stack e-commerce web application built using the <strong>MERN-style</strong> stack — 
 React (Vite) for the frontend, Express.js + Sequelize (PostgreSQL) for the backend, and Razorpay for payments.
 It provides separate dashboards for both <strong>Users</strong> and <strong>Admins</strong>, enabling a complete online shopping experience.
 </p>
@@ -10,7 +10,7 @@ It provides separate dashboards for both <strong>Users</strong> and <strong>Admi
 
 <h2>Live Demo</h2>
 
-Frontend (Netlify): [https://yourownshoppingstore.netlify.app](https://yourownshoppingstore.netlify.app)  
+Frontend (Netlify): [https://ANUTstore.netlify.app](https://ANUTSTORE.netlify.app)  
 
 ---
 
