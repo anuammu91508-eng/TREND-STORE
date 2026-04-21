@@ -166,7 +166,7 @@ git push origin feature/new-feature
 ```
   
 <h3 align="center">👨Developed by <strong>ANU T</strong></h3> <p align="center"> Check out more of my work at
-my <a href="https://work-with-ashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>! </p> 
+my <a href="https://work-with-anu.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>! </p> 
 
 <p>
 <strong>ANU T STORE</strong> is a full-stack e-commerce web application built using the <strong>MERN-style</strong> stack — 
